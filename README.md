@@ -1,4 +1,4 @@
-# Sentiment Identification
+# Sentiment Identification (NLP)
 
 ## BACKGROUND
 A large multinational corporation is seeking to automatically identify the sentiment that their customer base talks
