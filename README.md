@@ -12,3 +12,9 @@ maximize accuracy. There is special interest in being able to accurately detect 
 includes documents from a wide variety of sources, not merely social media, and some of it may be inconsistently
 labeled. Please describe the business outcomes in your work sample including how data limitations impact your results
 and how these limitations could be addressed in a larger project.
+
+#### Main Library Used
+1. NLTK
+2. re
+3. Pandas
+4. Sklearn
